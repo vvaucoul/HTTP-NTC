@@ -1,5 +1,5 @@
 # HTTP-NTC
-HTTP NetCat to Curl convertion
+HTTP NetCat to Curl convert
 
 * Simple HTTP Request converter, convert request HTTP header designed for netcat to curl.
 
